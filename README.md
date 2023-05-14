@@ -1,6 +1,6 @@
 # Trabajo Fin de Master
 
-En este repositorio aparece todo el código generado durante el Trabajo Fin de Máster y los archivos se encuentran divididos en dos partes; una carpeta que contiene los archivos generados para R y otra los archivos generados para Bash. El uso de los archivos para los diferentes análisis durante el desarrollo del trabajo ha sido el siguiente:
+En este repositorio aparece todo el código generado durante el Trabajo Fin de Máster y los archivos se encuentran divididos en dos partes; una carpeta que contiene los archivos generados para R y otra con los archivos generados para Bash. El uso de los archivos para los diferentes análisis durante el desarrollo del trabajo ha sido el siguiente:
 
 
 
